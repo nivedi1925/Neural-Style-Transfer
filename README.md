@@ -29,8 +29,7 @@ It works by optimizing an image to minimize a content cost and a style cost, bot
     Jupyter Notebook
 
 🖼️ Example Output
-
-    ![Result Image](images/output.png)
+![Result Image](images/output.png)
 
 (Include screenshots or sample images if allowed.)
 
