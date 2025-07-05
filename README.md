@@ -1,7 +1,6 @@
 # Neural-Style-Transfer
 "Neural Style Transfer — Based on the Deep Learning Specialization (Coursera) Assignment"
 Implemented a neural style transfer algorithm using pretrained convolutional neural networks (VGG-19) as part of Andrew Ng’s Deep Learning Specialization. Learned about content and style cost functions, and how to combine them to generate stylized images.
-⚠️ This project is based on the Deep Learning Specialization assignment from Coursera (by Andrew Ng). No significant modifications have been made beyond the course materials.
 
 📌 What is Neural Style Transfer?
 
