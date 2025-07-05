@@ -1,4 +1,4 @@
-# Neural-Style-Transfer
+# Neural Style Transfer 
 "Neural Style Transfer — Based on the Deep Learning Specialization (Coursera) Assignment"
 Implemented a neural style transfer algorithm using pretrained convolutional neural networks (VGG-19) as part of Andrew Ng’s Deep Learning Specialization. Learned about content and style cost functions, and how to combine them to generate stylized images.
 
@@ -30,9 +30,7 @@ It works by optimizing an image to minimize a content cost and a style cost, bot
 
 🖼️ Example Output
 
-    📸 Content Image:
-    🎨 Style Image:
-    🧵 Stylized Output:
+    ![Result Image](images/output.png)
 
 (Include screenshots or sample images if allowed.)
 
